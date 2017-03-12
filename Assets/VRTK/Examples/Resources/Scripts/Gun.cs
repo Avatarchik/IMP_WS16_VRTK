@@ -7,9 +7,9 @@
         private GameObject bullet;
         public float bulletSpeed = 1000f;
         private float bulletLife = 5f;
-        
 
-        
+
+
 
         public override void StartUsing(GameObject usingObject)
         {

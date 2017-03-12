@@ -6,7 +6,7 @@
     {
         public float bulletSpeed = 200f;
         public float bulletLife = 5f;
-
+        
         private GameObject bullet;
         private GameObject trigger;
         private RealGun_Slide slide;
